@@ -1,0 +1,1 @@
+console.log('Prática 2. Array de números, separar os números pares e ímpares.');
